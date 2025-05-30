@@ -2,58 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Make the Web Fun Again on Hugo Zen theme</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Make the Web Fun Again on Hugo Zen theme</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 21:45:54 +0800</lastBuildDate>
+      <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st</title>
+      <link>https://example.org/1st/</link>
+      <pubDate>Fri, 30 May 2025 21:45:54 +0800</pubDate>
+      <guid>https://example.org/1st/</guid>
+      <description>&lt;h2 id=&#34;这是我的第一个添加的blog&#34;&gt;这是我的第一个添加的blog&lt;/h2&gt;&#xA;&lt;p&gt;用来测试是否能够自动部署&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/documentation/configuration/</link>
+      <link>https://example.org/documentation/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/documentation/configuration/</guid>
+      <guid>https://example.org/documentation/configuration/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://example.org/contact/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xA;&lt;p class=&#34;success message hidden&#34; data-contact-submitted&gt;Your message was sent.&lt;/p&gt;&#xA;&lt;p class=&#34;error message hidden&#34; data-contact-error&gt;There was an error sending the message.&lt;/p&gt;&#xA;&#xA;&lt;form class=&#34;contact-form hidden&#34; data-protect=&#34;/php/contact.php&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34;&gt;&#xA;  &lt;label for=&#34;edit-name&#34;&gt;Name&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-name&#34; name=&#34;name&#34; placeholder=&#34;Your name&#34; required autofocus&gt;&#xA;  &lt;label for=&#34;edit-mail&#34;&gt;E-mail address&lt;/label&gt;&#xA;  &lt;input type=&#34;email&#34; id=&#34;edit-mail&#34; name=&#34;email&#34; placeholder=&#34;Your e-mail address&#34; required&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-url&#34; class=&#34;hidden&#34; name=&#34;url&#34; placeholder=&#34;Skip if you are a human&#34;&gt;&#xA;  &lt;label for=&#34;edit-subject&#34;&gt;Subject&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-subject&#34; name=&#34;subject&#34; placeholder=&#34;A short subject&#34; required&gt;&#xA;  &lt;label for=&#34;edit-message&#34;&gt;Message&lt;/label&gt;&#xA;  &lt;textarea id=&#34;edit-message&#34; name=&#34;message&#34; rows=&#34;5&#34; placeholder=&#34;The messages go here…&#34; required&gt;&lt;/textarea&gt;&#xA;  &lt;button type=&#34;submit&#34; name=&#34;submit&#34; disabled&gt;Send message&lt;/button&gt;&#xA;&lt;/form&gt;&#xA;&#xA;</description>
     </item>
     <item>
       <title>Create a theme</title>
-      <link>http://localhost:1313/documentation/create-theme/</link>
+      <link>https://example.org/documentation/create-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/documentation/create-theme/</guid>
+      <guid>https://example.org/documentation/create-theme/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/documentation/install/</link>
+      <link>https://example.org/documentation/install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/documentation/install/</guid>
+      <guid>https://example.org/documentation/install/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Quickstart</title>
-      <link>http://localhost:1313/documentation/quickstart/</link>
+      <link>https://example.org/documentation/quickstart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/documentation/quickstart/</guid>
+      <guid>https://example.org/documentation/quickstart/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://example.org/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://example.org/search/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xA;&lt;p class=&#34;info message hidden&#34; data-search-loading&gt;Loading search index…&lt;/p&gt;&#xA;&#xA;&lt;div data-search-input class=&#34;hidden&#34;&gt;&#xA;  &lt;form data-search-form id=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xA;    &lt;label for=&#34;query&#34; class=&#34;visually-hidden&#34;&gt;Search&lt;/label&gt;&#xA;    &lt;input data-search-text type=&#34;search&#34; id=&#34;query&#34; name=&#34;query&#34; placeholder=&#34;Enter the terms you wish to search for.&#34; maxlength=&#34;128&#34;&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div data-search-results&gt;&lt;/div&gt;&#xA;&#xA;&lt;template&gt;&#xA;  &lt;article data-search-result class=&#34;list-view&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;h2 class=&#34;title mt--s mb--xxs&#34;&gt;&lt;a href=&#34;#&#34;&gt;Title here&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&lt;time class=&#34;created-date&#34;&gt;Date here&lt;/time&gt;&lt;/div&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;p class=&#34;content&#34;&gt;Summary here&lt;/p&gt;&#xA;  &lt;/article&gt;&#xA;&lt;/template&gt;&#xA;&#xA;</description>
     </item>
   </channel>

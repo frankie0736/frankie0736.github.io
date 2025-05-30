@@ -3,16 +3,16 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Documentation on Hugo Zen theme",
     "description": "Recent content in Documentation on Hugo Zen theme",
-    "home_page_url": "http://localhost:1313/",
-    "feed_url": "http://localhost:1313/documentation/index.json",
+    "home_page_url": "https://example.org/",
+    "feed_url": "https://example.org/documentation/index.json",
     "language": "en-GB",
-    "icon": "http://localhost:1313/apple-touch-icon.png",
-    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "icon": "https://example.org/apple-touch-icon.png",
+    "favicon": "https://example.org/apple-touch-icon.png",
     "authors": [
         {
             "name": "Your Name",
             "url": "https://example.org/somepage",
-            "avatar": "http://localhost:1313/path/to/some-image.jpg"
+            "avatar": "https://example.org/path/to/some-image.jpg"
         }
     ],
     "items": [
@@ -20,8 +20,8 @@
             "title": "Configuration",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "http://localhost:1313/documentation/configuration/",
-            "url": "http://localhost:1313/documentation/configuration/",
+            "id": "https://example.org/documentation/configuration/",
+            "url": "https://example.org/documentation/configuration/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -33,8 +33,8 @@
             "title": "Create a theme",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "http://localhost:1313/documentation/create-theme/",
-            "url": "http://localhost:1313/documentation/create-theme/",
+            "id": "https://example.org/documentation/create-theme/",
+            "url": "https://example.org/documentation/create-theme/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -46,8 +46,8 @@
             "title": "Installation",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "http://localhost:1313/documentation/install/",
-            "url": "http://localhost:1313/documentation/install/",
+            "id": "https://example.org/documentation/install/",
+            "url": "https://example.org/documentation/install/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
@@ -59,8 +59,8 @@
             "title": "Quickstart",
             "date_published": "0001-01-01T00:00:00Z",
             "date_modified": "0001-01-01T00:00:00Z",
-            "id": "http://localhost:1313/documentation/quickstart/",
-            "url": "http://localhost:1313/documentation/quickstart/",
+            "id": "https://example.org/documentation/quickstart/",
+            "url": "https://example.org/documentation/quickstart/",
             "authors": [
                 {
                   "name": "Fredrik Jonsson"
