@@ -1,11 +1,11 @@
 
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Documentation on Hugo Zen theme",
-    "description": "Recent content in Documentation on Hugo Zen theme",
+    "title": "Documentation  210 Studio",
+    "description": "  Documentation  210 Studio",
     "home_page_url": "https://example.org/",
     "feed_url": "https://example.org/documentation/index.json",
-    "language": "en-GB",
+    "language": "zh-CN",
     "icon": "https://example.org/apple-touch-icon.png",
     "favicon": "https://example.org/apple-touch-icon.png",
     "authors": [
