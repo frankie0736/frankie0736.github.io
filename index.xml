@@ -6,8 +6,15 @@
     <description>Recent content in Make the Web Fun Again on Hugo Zen theme</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 30 May 2025 21:45:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 21:53:09 +0800</lastBuildDate>
       <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2nd</title>
+      <link>https://example.org/2nd/</link>
+      <pubDate>Fri, 30 May 2025 21:53:09 +0800</pubDate>
+      <guid>https://example.org/2nd/</guid>
+      <description>&lt;h2 id=&#34;第二篇&#34;&gt;第二篇&lt;/h2&gt;&#xA;&lt;p&gt;测试自动化action&lt;/p&gt;&#xA;</description>
+    </item>
     <item>
       <title>1st</title>
       <link>https://example.org/1st/</link>
